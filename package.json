@@ -1,0 +1,17 @@
+{
+  "name": "timemarketcap",
+  "version": "1.0.0",
+  "main": "src/index.ts",
+  "repository": "git@github.com:sboli/timemarketcap.git",
+  "author": "Bolivar Stephen <bolivar.stephen@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "ts-node-dev src/index.ts"
+  },
+  "devDependencies": {
+    "ts-node": "^10.4.0",
+    "ts-node-dev": "^1.1.8",
+    "tsc": "^2.0.3",
+    "typescript": "^4.5.2"
+  }
+}
